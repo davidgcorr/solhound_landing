@@ -77,7 +77,7 @@ export const Navbar = () => {
         <Image
           src="/logo.svg"
           alt="Solhound"
-          className="p-1 mr-2 rounded-md object-cover drop-shadow-md transition-shadow hover:drop-shadow-xl"
+          className="p-1 mr-2 rounded-md object-cover drop-shadow transition-all duration-300 ease-in-out hover:drop-shadow-xl hover:scale-110"
           width={50}
           height={50}
         />
